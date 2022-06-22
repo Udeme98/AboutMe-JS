@@ -1,3 +1,3 @@
 # About Me
 
-The contains an information about my name, height and country.
+The contains information about my name, height and country.
